@@ -1,0 +1,26 @@
+{
+  "version" : "1.0",
+  "rowId" : null,
+  "rowWeight" : null,
+  "targetAttributeName" : "switch",
+  "dataFormat" : "CSV",
+  "dataFileContainsHeader" : true,
+  "attributes" : [ {
+    "attributeName" : "timest",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "day",
+    "attributeType" : "CATEGORICAL"
+  }, {
+    "attributeName" : "time96lcl",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "time96exp",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "switch",
+    "attributeType" : "BINARY"
+  } ],
+  "excludedAttributeNames" : [ ]
+}
+
